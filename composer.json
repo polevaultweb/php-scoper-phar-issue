@@ -1,0 +1,12 @@
+{
+    "name": "igp/php-scoper-phar-issue",
+    "authors": [
+        {
+            "name": "Iain",
+            "email": "iain@polevaultweb.com"
+        }
+    ],
+    "require": {
+        "polevaultweb/wp-dropbox-api": "dev-master"
+    }
+}
