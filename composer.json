@@ -7,6 +7,7 @@
         }
     ],
     "require": {
-        "polevaultweb/wp-dropbox-api": "dev-master"
+        "polevaultweb/wp-dropbox-api": "dev-master",
+        "monolog/monolog": "^2.0"
     }
 }
